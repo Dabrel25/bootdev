@@ -38,8 +38,9 @@ I'm a passionate learner on a journey to become a skilled software developer. Th
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/darrelong/) <!-- Add your LinkedIn if you want -->
+- [LinkedIn](https://www.linkedin.com/in/darrelong/)
 - [gmail]darrelethanong@gmail.com
+- [BootDev](https://www.boot.dev/u/darrelethanong)
 
 
 ## Acknowledgments
