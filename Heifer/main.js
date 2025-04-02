@@ -1,6 +1,8 @@
+import * as cowsay from "cowsay"
 import {moo} from "./moo.js";
 
-console.log(moo("Alice"));
-console.log(moo("Bob"));
+console.log(cowsay.say({
+    text: moo("Bob"),
+}));
 
     

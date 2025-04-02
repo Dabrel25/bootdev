@@ -59,7 +59,8 @@
         color: #ff5555;
       }
     </style>
-    <script>
+    <script type ="module">
+        
       if (
         window.matchMedia &&
         window.matchMedia("(prefers-color-scheme: dark)").matches
@@ -67,7 +68,8 @@
         document.body.classList.add("dark-mode");
       }
     </script>
-    <script>
+    <script type ="module">
+        
       import confetti from "https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/+esm";
 
       const button = document.getElementById("celebrate");
